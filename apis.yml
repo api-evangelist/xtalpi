@@ -1,0 +1,98 @@
+aid: xtalpi
+name: XtalPi
+description: >-
+  XtalPi is an AI-and-quantum-physics drug discovery and materials research
+  platform company with headquarters in Cambridge, Massachusetts and major
+  operations in Beijing, Shanghai, and Shenzhen, publicly listed on the Hong
+  Kong Stock Exchange under stock code 2228.HK. The company combines a hybrid
+  AI plus quantum mechanics (QM) discovery engine with large-scale robotic
+  laboratory automation to accelerate molecular research and development for
+  pharmaceutical, agrochemical, and materials customers, including engagements
+  with Pfizer, Eli Lilly, and Novartis. XtalPi's offering spans proprietary
+  software platforms — PatSight for patent extraction, XFEP for free-energy
+  perturbation binding-affinity prediction, XMolGen for generative chemistry,
+  and XtalGazer for solid-state research — and intelligent automation hardware
+  including the XmartChem intelligent synthesis workstation and ChemPlus
+  desktop solid dispenser. Its drug discovery services cover hit discovery,
+  hit/lead optimization, biology capabilities, focused library synthesis, and
+  the PepiX peptide platform, complemented by sister brands Ailux (biology)
+  and AiFChem (chemistry). XtalPi's products are delivered as enterprise
+  collaborations, licensed software, and CRO-style services; there is no
+  public developer API, SDK, or open-source release.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Drug Discovery
+  - Pharmaceutical Research
+  - AI Drug Discovery
+  - Quantum Mechanics
+  - Quantum Physics
+  - Computational Chemistry
+  - Generative Chemistry
+  - Molecular Simulation
+  - Free Energy Perturbation
+  - Solid-State Research
+  - Peptide Therapeutics
+  - Lab Automation
+  - Intelligent Laboratories
+  - Robotics
+  - Materials Science
+  - Life Sciences
+  - Biotechnology
+url: https://raw.githubusercontent.com/api-evangelist/xtalpi/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://en.xtalpi.com/
+  - type: About
+    url: https://en.xtalpi.com/about/
+  - type: Technology
+    url: https://en.xtalpi.com/technology/
+  - type: DigitalChemistry
+    url: https://en.xtalpi.com/digital-chemistry/
+  - type: DrugDiscovery
+    url: https://en.xtalpi.com/drug-discovery/
+  - type: PatSight
+    url: https://en.xtalpi.com/patsight/
+  - type: XFEP
+    url: https://en.xtalpi.com/xfep/
+  - type: XMolGen
+    url: https://en.xtalpi.com/xmolgen/
+  - type: XtalGazer
+    url: https://www.xtalgazer.com/
+  - type: ChemicalSynthesis
+    url: https://en.xtalpi.com/chemical-synthesis
+  - type: FocusedLibrary
+    url: https://en.xtalpi.com/focused-library/
+  - type: HitDiscovery
+    url: https://en.xtalpi.com/hit-discovery/
+  - type: HitOrLeadOptimization
+    url: https://en.xtalpi.com/hit-or-lead-optimization/
+  - type: BiologyCapabilities
+    url: https://en.xtalpi.com/biology-capabilities/
+  - type: PepiX
+    url: https://en.xtalpi.com/pepix/
+  - type: Ailux
+    url: https://ailuxbio.com/
+  - type: AiFChem
+    url: https://www.aifchem.com/
+  - type: Resources
+    url: https://en.xtalpi.com/resources/
+  - type: News
+    url: https://en.xtalpi.com/category/news/
+  - type: InvestorRelations
+    url: https://ir.xtalpi.com/en/
+  - type: Careers
+    url: https://hire-r1.mokahr.com/social-recruitment/XtalPi/100000047#/jobs
+  - type: Contact
+    url: https://en.xtalpi.com/contact-us
+  - type: GitHub
+    url: https://github.com/xtalpi
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
