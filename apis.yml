@@ -65,10 +65,12 @@ tags:
   - Biotechnology
 url: https://raw.githubusercontent.com/api-evangelist/xtalpi/refs/heads/main/apis.yml
 created: '2026-05-24'
-modified: '2026-05-24'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://en.xtalpi.com/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/xtalpi-domain-security.yml
   - type: Website
